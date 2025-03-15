@@ -1,4 +1,4 @@
-# TypeFolder ✨
+# TypeFolder
 
 Una **selección cuidadosa de tipografías** pensada especialmente para diseñador\@s, que facilita la búsqueda de tipografías de calidad para proyectos de diseño.
 
