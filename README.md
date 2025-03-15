@@ -31,7 +31,7 @@ Si has encontrado una tipografía comercial gratuita que no está todavía en nu
 > [!Important]
 > Revisa las características y condiciones mínimas que debe tener la tipografía para que pueda ser aceptada. Puedes consultar toda la información **[aquí](https://)**.
 
-Para sugerir una tipografía, abre un **[issue](https://)** en GitHub o enviar la información a traves del **[formulario de petición](https://)** si no tienes una cuenta de GitHub.
+Para sugerir una tipografía, abre un **[issue](https://)** en GitHub o enviar la información a través del **[formulario de petición](https://)** si no tienes una cuenta de GitHub.
 
 ### 2. Reportar errores:
 
@@ -41,7 +41,7 @@ Si encuentras enlaces rotos, errores en la información de una tipografía o pro
 
 ¿Tienes alguna funcionalidad que te gustaría que se implementase en la web? ¿Quieres aportar una mejora de rendimiento para que la web funcione aún mejor?
 
-Cualquier sugerencia y mejora son bienvenidas y estaremos encantados de implementarlas. Puedes enviarlas abriendo un **[issue](https://)** en GitHub o a traves del **[formulario de sugerencias](https://)** si no tienes una cuenta de GitHub.
+Cualquier sugerencia o mejora es bienvenida y, si es viable, estaremos encantados de implementarla. Puedes enviarlas abriendo un **[issue](https://)** en GitHub o a través del **[formulario de sugerencias](https://)** si no tienes una cuenta de GitHub.
 
 > [!Note]
-> Antes de realizar cualquier sugerencia, consulta la lista de implementación para ver si ya hay una sugerencia similar y en que estado se encuentra.
+> Antes de hacer una sugerencia, revisa la lista de implementación para comprobar si ya se ha propuesto algo similar y en qué estado se encuentra.
